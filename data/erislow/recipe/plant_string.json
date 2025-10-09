@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SS",
+    "S "
+  ],
+  "key": {
+    "S": "#minecraft:saplings"
+  },
+  "result": {
+    "id": "minecraft:string",
+    "components": {
+      "minecraft:item_model": "eerilyslow:plant_string",
+      "minecraft:item_name": "Plant String",
+      "minecraft:lore": [
+        "You extracted the fibers from those saplings and turned them into a Plant String... "
+      ],
+      "minecraft:max_stack_size": 16
+    },
+    "count": 1
+  }
+}

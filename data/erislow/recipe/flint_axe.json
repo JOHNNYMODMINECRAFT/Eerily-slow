@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SF",
+    "# "
+  ],
+  "key": {
+    "#": [
+      "minecraft:stick"
+    ],
+    "S": [
+      "minecraft:string"
+    ],
+    "F": [
+      "minecraft:flint"
+    ]
+  },
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:item_model": "eerilyslow:flint_axe",
+      "minecraft:item_name": "Flint Axe",
+      "minecraft:damage": 6,
+      "minecraft:max_damage": 45,
+      "minecraft:max_stack_size": 1,
+      "minecraft:lore": [
+        "A cheap but useful item for simple woodchopping, Easy to break!"
+      ]
+    },
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " F",
+    "S "
+  ],
+  "key": {
+    "S": [
+      "minecraft:stick"
+    ],
+    "F": [
+      "minecraft:flint"
+    ]
+  },
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:item_model": "eerilyslow:flint_blade",
+      "minecraft:item_name": "Flint Blade",
+      "minecraft:damage": 1,
+      "minecraft:max_damage": 40,
+      "minecraft:lore": [
+        "Your very first tool to start off this cruel world!"
+      ]
+    },
+    "count": 1
+  }
+}

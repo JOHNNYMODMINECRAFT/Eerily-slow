@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:stone_sword"
+  ],
+  "addition": [
+    "minecraft:iron_ingot",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "minecraft:iron_sword"
+  }
+}

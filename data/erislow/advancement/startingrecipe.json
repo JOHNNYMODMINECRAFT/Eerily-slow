@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:flint"
+    },
+    "title": "Thanks For Using Eerily Slow!",
+    "description": "Goodluck surviving the slowed down world now...",
+    "frame": "goal",
+    "show_toast": true,
+    "background": "minecraft:block/stone",
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "on_join": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "on_join"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "erislow:flint_blade",
+      "erislow:flint_pickaxe",
+      "erislow:flint_axe",
+      "erislow:flintahh",
+      "erislow:plant_string",
+      "erislow:furnace_from_brick"
+    ],
+    "experience": 1
+  }
+}

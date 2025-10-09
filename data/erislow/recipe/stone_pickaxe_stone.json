@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SSS",
+    " T ",
+    " T "
+  ],
+  "key": {
+    "S": [
+      "minecraft:stone"
+    ],
+    "T": [
+      "minecraft:stick"
+    ]
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "count": 1
+  }
+}

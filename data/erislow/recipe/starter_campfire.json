@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": [
+      "minecraft:flint"
+    ],
+    "L": "#minecraft:logs",
+    "S": [
+      "minecraft:stick"
+    ],
+    "s": [
+      "minecraft:string"
+    ]
+  },
+  "pattern": [
+    " S ",
+    "sCs",
+    "LLL"
+  ],
+  "result": {
+    "components": {
+      "minecraft:item_name": "Starting Campfire"
+    },
+    "count": 1,
+    "id": "minecraft:campfire"
+  }
+}
