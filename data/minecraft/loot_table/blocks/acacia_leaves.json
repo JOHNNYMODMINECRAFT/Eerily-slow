@@ -7,16 +7,14 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:acacia_sapling",
-          "weight": 8,
-          "conditions": []
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:match_tool",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
           "predicate": {
-            "items": "#minecraft:axes"
+            "items": ["minecraft:#axes"]
           }
+            }
+          ]
         }
       ]
     }

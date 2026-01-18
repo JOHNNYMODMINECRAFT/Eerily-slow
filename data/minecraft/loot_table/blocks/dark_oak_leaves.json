@@ -8,15 +8,12 @@
           "type": "minecraft:item",
           "name": "minecraft:dark_oak_sapling",
           "weight": 8,
-          "conditions": []
-        }
-      ],
-      "conditions": [
-        {
+          "conditions": [ {
           "condition": "minecraft:match_tool",
           "predicate": {
-            "items": "#minecraft:axes"
+            "items": ["#minecraft:axes"]
           }
+        }]
         }
       ]
     }
