@@ -1,6 +1,7 @@
 {
   "pack": {
+    "description": "Makes your game Eerily Slow!",
     "pack_format": 94,
-    "description": "Makes your early-game eerily slow!"
+    "supported_formats": 94
   }
 }

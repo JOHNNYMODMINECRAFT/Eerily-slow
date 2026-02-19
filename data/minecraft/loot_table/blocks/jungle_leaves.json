@@ -11,7 +11,14 @@
           "conditions": [ {
           "condition": "minecraft:match_tool",
           "predicate": {
-            "items": ["#minecraft:axes"]
+            "items": ["minecraft:wooden_axe",
+      "minecraft:stone_axe",
+      "copper_axe",
+      "minecraft:iron_axe",
+      "minecraft:golden_axe",
+      "minecraft:diamond_axe",
+      "minecraft:netherite_axe"
+            ]
           }
         }]
         }
